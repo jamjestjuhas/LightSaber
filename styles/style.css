@@ -1,0 +1,140 @@
+html, body  	
+{
+	margin: 10px 10px 10px 10px; 
+	padding: 0px 0px 0px 0px;
+	font-size: 11pt; 
+	font-family: Verdana, arial, helvetica, sans-serif;
+}
+
+img
+{
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	border-width: 0px;
+}
+
+img a
+{
+	border-width: 0px;
+}
+
+div
+{
+	border: 0px solid black;	
+}
+
+#container
+{
+	margin: 0 auto;
+	background: none;
+}
+
+
+#banner1
+{
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	height: 30px;
+	float: left;
+}
+
+#banner2
+{
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	height: 30px;
+	float: right;
+}
+
+#subs
+{
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	float: right;
+	text-align: right;
+	clear: both;
+}
+
+#subscol
+{
+	width: 32%;
+	padding: 0px 0px 0px 0px;
+	margin:  5px 5px 5px 5px;
+	float: left;
+	text-align: center;
+}
+
+#statuscol
+{
+	width: 49%;
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	float: left;
+	text-align: center;
+}
+
+#statuscolleft
+{
+	width: 170px;
+	padding: 60px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	float: left;
+	text-align: center;
+}
+
+#statuscolright
+{
+	width: 170px;
+	padding: 60px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	float: right;
+	text-align: center;
+}
+
+
+
+
+#clear
+{
+	width: 100%;
+	background: white;
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	clear: both;
+	text-align: center;
+}
+#title
+{
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	clear: both;
+	text-align: center;
+	font-size: 10pt;
+}
+
+#title h1
+{
+	font-size: 64pt;
+}
+#footer
+{
+	width: 100%;
+	padding: 0px 0px 0px 0px;
+	margin:  100px 0px 0px 0px;
+	height: 46px;
+	clear: both;
+	text-align: center;
+	font-size: 10pt;
+	border-top: 1px solid gray;
+}
+
+#clear
+{
+	width: 100%;
+	background: white;
+	padding: 0px 0px 0px 0px;
+	margin:  0px 0px 0px 0px;
+	clear: both;
+}
